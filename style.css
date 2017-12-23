@@ -1,0 +1,42 @@
+body{
+	padding:0px;
+	margin:0px;
+
+}
+ 
+.logo{
+	width:100%;
+	height:auto;
+	background:#D8DFE6;
+	font-size:30px;
+	color:white;
+	background:black;
+	opacity:0.9;
+}
+ @media (min-width:768px){.Camera_names{margin-left:200px!important;}}
+.Camera_names{
+	font-family:Lucida Handwriting;
+	line-height:120px;
+	margin-left:50px;
+	
+}
+text-1{
+	margin-left:30px;
+	font-family:Segoe Script;
+}
+text-2{
+	margin-left:30px;
+	font-family:Forte;
+}
+text-3{
+	margin-left:30px;
+	font-family: Bernard MT Condensed;
+}
+text-4{
+	margin-left:30px;
+	font-family: Old English Text MT;
+}
+text-5{
+	margin-left:30px;
+	font-family:Lucida Calligraphy;
+}
